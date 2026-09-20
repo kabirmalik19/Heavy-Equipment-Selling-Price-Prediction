@@ -16,6 +16,7 @@ Model Ensembling: Combines the predictive power of both gradient boosting models
 
 ## Evaluation & Results
 The primary evaluation metric for this task is the Root Mean Squared Logarithmic Error (RMSLE). This metric is highly effective for pricing models because it penalizes relative differences rather than absolute scale, preventing expensive machinery from dominating the error calculation.
+
 <img width="469" height="92" alt="Screenshot 2026-09-20 131348" src="https://github.com/user-attachments/assets/d40d05bc-f7e4-4163-9b10-4ba89df28314" />
 
 
